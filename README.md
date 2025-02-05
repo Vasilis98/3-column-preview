@@ -1,6 +1,6 @@
 # 3-Column Preview Card
 
-Tis project is a responsive 3-column preview card layout.
+This project is a responsive 3-column preview card layout.
 
 ## Technologies Used
 
